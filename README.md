@@ -7,8 +7,10 @@ Step 1 : npm create vite@latest,
 
 Step 2 : npm install,
 
-Step 3 : npm run dev, 
+Step 3 : After install, Delet src in Vs Code and Add my github Src file in Vs Code
 
-Step 4 : npm install styled-components,
+Step 4 : npm run dev, 
 
-Step 5 : npm install react-icons. 
+Step 5 : npm install styled-components,
+
+Step 6 : npm install react-icons. 
